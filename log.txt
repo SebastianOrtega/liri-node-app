@@ -1,0 +1,274 @@
+______________________________________
+
+Venue: Metropolitano Rosario
+Country: Argentina
+City: Rosario
+Date Time: 10/16/2018
+______________________________________
+Venue: Teatro Gran Rex
+Country: Argentina
+City: Centro
+Date Time: 10/19/2018
+______________________________________
+Venue: Teatro Gran Rex
+Country: Argentina
+City: Centro
+Date Time: 10/20/2018
+______________________________________
+Venue: Teatro Gran Rex
+Country: Argentina
+City: Centro
+Date Time: 10/21/2018
+______________________________________
+Venue: Teatro Gran Rex
+Country: Argentina
+City: Centro
+Date Time: 10/23/2018
+______________________________________
+Venue: Quality Espacio
+Country: Argentina
+City: Córdoba
+Date Time: 10/26/2018
+______________________________________
+Venue: Quality Espacio
+Country: Argentina
+City: Córdoba
+Date Time: 10/27/2018
+______________________________________
+Venue: Teatro Gran Rex
+Country: Argentina
+City: Centro
+Date Time: 10/30/2018
+______________________________________
+Venue: Teatro Gran Rex
+Country: Argentina
+City: Buenos Aires
+Date Time: 11/02/2018
+______________________________________
+Venue: Teatro Gran Rex
+Country: Argentina
+City: Buenos Aires
+Date Time: 11/06/2018
+______________________________________
+Venue: Teatro Gran Rex
+Country: Argentina
+City: Buenos Aires
+Date Time: 11/07/2018
+______________________________________
+Venue: Auditorio Ángel Bustelo
+Country: Argentina
+City: Mendoza
+Date Time: 11/10/2018
+______________________________________
+Venue: Teatro Nescafé de las Artes
+Country: Chile
+City: Providencia
+Date Time: 11/21/2018
+______________________________________
+Venue: Aula Magna
+Country: Chile
+City: Valparaiso
+Date Time: 11/24/2018
+______________________________________
+Venue: Teatro Regional del Maule
+Country: Chile
+City: Paso Del Rosario
+Date Time: 11/27/2018
+______________________________________
+Venue: Teatro del Lago, Frutillar
+Country: Chile
+City: Paso Del Rosario
+Date Time: 11/29/2018
+______________________________________
+Venue: Teatro Municipal de Temuco
+Country: Chile
+City: Oficina Pedro De Valdivia
+Date Time: 12/01/2018
+______________________________________
+Venue: Teatro Universidad de Concepción
+Country: Chile
+City: Oficina Pedro De Valdivia
+Date Time: 12/03/2018
+______________________________________
+Venue: Movistar Arena
+Country: Chile
+City: Movistar Arena
+Date Time: 12/06/2018
+______________________________________
+Venue: WiZink Center
+Country: Spain
+City: Madrid
+Date Time: 12/12/2018
+______________________________________
+Venue: Auditorio del Forum
+Country: Spain
+City: Barcelona
+Date Time: 12/18/2018
+______________________________________
+Venue: Auditorio del Forum
+Country: Spain
+City: Barcelona
+Date Time: 12/19/2018
+______________________________________
+Venue: Auditori del Forum
+Country: Spain
+City: Barcelona
+Date Time: 12/21/2018
+______________________________________
+Venue: Palacio de Bellas Artes
+Country: Mexico
+City: Mexico
+Date Time: 02/07/2019
+______________________________________
+Venue: Palacio de Bellas Artes
+Country: Mexico
+City: Mexico
+Date Time: 02/09/2019
+______________________________________
+Venue: Palacio de Bellas Artes
+Country: Mexico
+City: Mexico
+Date Time: 02/14/2019
+______________________________________
+Venue: Palacio de Bellas Artes
+Country: Mexico
+City: Mexico
+Date Time: 02/16/2019
+______________________________________
+Venue: Palacio de Bellas Artes
+Country: Mexico
+City: Mexico
+Date Time: 02/17/2019
+______________________________________
+Venue: Beacon Theatre
+Country: United States
+City: New York
+Date Time: 02/28/2019
+______________________________________
+Venue: The Fillmore Miami Beach
+Country: United States
+City: Miami Beach
+Date Time: 03/02/2019
+____________________________________________________________________________
+Title: Open Water
+Release Year: 2003
+Rating: R
+Rotten Tomatoes: 72%
+Country: USA
+Language: English
+Plot:
+ Based on the true story of two scuba divers accidentally stranded in shark infested waters after their tour boat has left.
+Actors:
+ Blanchard Ryan, Daniel Travis, Saul Stein, Michael E. Williamson____________________________________________________________________________
+Title: Open Water
+Release Year: 2003
+Rating: R
+Rotten Tomatoes: 72%
+Country: USA
+Language: English
+Plot:
+ Based on the true story of two scuba divers accidentally stranded in shark infested waters after their tour boat has left.
+Actors:
+ Blanchard Ryan, Daniel Travis, Saul Stein, Michael E. Williamson
+______________________________________
+_____________________________________
+Artist: The Cure
+Song's Name: Boys Don't Cry [Single Version]
+Album: Three Imaginary Boys [Deluxe Edition]
+Preview link: https://open.spotify.com/album/7gPql7GFpBMOxeO80vMMsC
+_____________________________________
+Artist: The Cure
+Song's Name: Boys Don't Cry
+Album: Greatest Hits
+Preview link: https://open.spotify.com/album/34ozkv3AkFksZD8srOmOrX
+_____________________________________
+Artist: Rels B
+Song's Name: Made in Taiwán
+Album: Boys Don't Cry
+Preview link: https://open.spotify.com/album/1yU1K0ZOXNmcfIkw0CBvbi
+_____________________________________
+Artist: Rels B
+Song's Name: Vamos a Mirarnos
+Album: Boys Don't Cry
+Preview link: https://open.spotify.com/album/1yU1K0ZOXNmcfIkw0CBvbi
+_____________________________________
+Artist: Greg Aram
+Song's Name: Boys Don't Cry
+Album: Boys Don't Cry
+Preview link: https://open.spotify.com/album/1a3P2Lg5FkbnVErCoA2qD2
+_____________________________________
+Artist: Boys Don't Cry
+Song's Name: I Wanna Be A Cowboy
+Album: Boys Don't Cry
+Preview link: https://open.spotify.com/album/2unvWXhYUVwQEhIpnwugch
+_____________________________________
+Artist: Frankie Valli & The Four Seasons
+Song's Name: Big Girls Don't Cry
+Album: Jersey Boys Original Broadway Cast Recording
+Preview link: https://open.spotify.com/album/5sCVURwZOOd13unG0uJmNX
+_____________________________________
+Artist: Rels B
+Song's Name: Baila Más
+Album: Boys Don't Cry
+Preview link: https://open.spotify.com/album/1yU1K0ZOXNmcfIkw0CBvbi
+_____________________________________
+Artist: John Lloyd Young
+Song's Name: Big Girls Don't Cry
+Album: Jersey Boys: Music From The Motion Picture And Broadway Musical
+Preview link: https://open.spotify.com/album/7yIneYpH8H7VLHaYqjSDKY
+_____________________________________
+Artist: morgxn
+Song's Name: boys don't cry
+Album: vital
+Preview link: https://open.spotify.com/album/07hIcfKFcbsOSWpvsGslyE
+_____________________________________
+Artist: Powerwolf
+Song's Name: Dead Boys Don't Cry
+Album: Blood of the Saints
+Preview link: https://open.spotify.com/album/1MSxQKpaZ2nPubMVQi9V3N
+_____________________________________
+Artist: GONE.Fludd
+Song's Name: MAMBL
+Album: BOYS DON'T CRY
+Preview link: https://open.spotify.com/album/6XkdV6D91falHy1yvAj5oQ
+_____________________________________
+Artist: Rels B
+Song's Name: Re-Member
+Album: Boys Don't Cry
+Preview link: https://open.spotify.com/album/1yU1K0ZOXNmcfIkw0CBvbi
+_____________________________________
+Artist: Aviva
+Song's Name: Princesses Don't Cry
+Album: Songs About Boys
+Preview link: https://open.spotify.com/album/6qjOGC8w0ek7nv9WVXRRkz
+_____________________________________
+Artist: Rels B
+Song's Name: Mama & Prometida
+Album: Boys Don't Cry
+Preview link: https://open.spotify.com/album/1yU1K0ZOXNmcfIkw0CBvbi
+_____________________________________
+Artist: GONE.Fludd
+Song's Name: KUBIK LDA
+Album: BOYS DON'T CRY
+Preview link: https://open.spotify.com/album/6XkdV6D91falHy1yvAj5oQ
+_____________________________________
+Artist: Natalia Kills
+Song's Name: Boys Don't Cry
+Album: Trouble
+Preview link: https://open.spotify.com/album/1XdmaPUzFqEPwowQ0UPiRp
+_____________________________________
+Artist: GONE.Fludd
+Song's Name: BOYS DON'T CRY
+Album: BOYS DON'T CRY
+Preview link: https://open.spotify.com/album/6XkdV6D91falHy1yvAj5oQ
+_____________________________________
+Artist: Jamie Lancaster
+Song's Name: Boys Don't Cry
+Album: Vintage Café - Lounge & Jazz Blends
+Preview link: https://open.spotify.com/album/5dPAnuLyn7AHGV6XIIcY64
+_____________________________________
+Artist: Los Cafres
+Song's Name: Boys Don't Cry
+Album: Classic Lover Covers
+Preview link: https://open.spotify.com/album/1J1n5i0OVkjhGzwVRtt3mF
+_____________________________________

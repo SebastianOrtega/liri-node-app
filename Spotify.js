@@ -1,9 +1,10 @@
 require("dotenv").config();
 const keys = require("./keys.js");
-//const request = require("request");
+const Utilities = require("./Utilities.js");
 const Spotify = require("node-spotify-api");
 
 let SpotifyClass = function() {
+  utilities = new Utilities();
   this.spotifyThisSong = function(song) {
     if (song == "") {
       song = "The Sign, ace of base";
@@ -22,14 +23,17 @@ let SpotifyClass = function() {
         return data.tracks.items[k];
       });
       //console.log(arr);
-      console.log("_____________________________________");
+      let dataFile = "";
+      dataFile += "\n_____________________________________";
       for (let n = 0; n < arr.length; n++) {
-        console.log("Artist: " + arr[n].artists[0].name);
-        console.log("Song's Name: " + arr[n].name);
-        console.log("Album: " + arr[n].album.name);
-        console.log("Preview link: " + arr[n].album.external_urls.spotify);
-        console.log("_____________________________________");
+        dataFile += "\nArtist: " + arr[n].artists[0].name;
+        dataFile += "\nSong's Name: " + arr[n].name;
+        dataFile += "\nAlbum: " + arr[n].album.name;
+        dataFile += "\nPreview link: " + arr[n].album.external_urls.spotify;
+        dataFile += "\n_____________________________________";
       }
+      console.log(dataFile);
+      utilities.updatefile(dataFile);
     });
   };
 };

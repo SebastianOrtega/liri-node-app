@@ -1,8 +1,10 @@
 const request = require("request");
+const Utilities = require("./Utilities.js");
 
 let Movie = function() {
   this.search = function(movie) {
-    movie = movie.replace(" ", "+");
+    let utilities = new Utilities();
+    movie = utilities.replaceAll(movie, " ", "+");
     if (movie == "") movie = "Mr. Nobody";
     let URL = "http://www.omdbapi.com/?apikey=trilogy&t=" + movie;
 
@@ -11,17 +13,21 @@ let Movie = function() {
     request(URL, function(error, response, body) {
       if (response.statusCode == 200) {
         let responseJSON = JSON.parse(body);
-        console.log("______________________________________");
-        console.log("Title: " + responseJSON.Title);
-        console.log("Release Year: " + responseJSON.Year);
-        console.log("Rating: " + responseJSON.Rated);
+        let dataFile = "";
+        dataFile += "______________________________________";
+        dataFile += "\nTitle: " + responseJSON.Title;
+        dataFile += "\nRelease Year: " + responseJSON.Year;
+        dataFile += "\nRating: " + responseJSON.Rated;
         try {
-          console.log("Rotten Tomatoes: " + responseJSON.Ratings[1].Value);
+          dataFile += "\nRotten Tomatoes: " + responseJSON.Ratings[1].Value;
         } catch (error) {}
-        console.log("Country: " + responseJSON.Country);
-        console.log("Language: " + responseJSON.Language);
-        console.log("Plot:\n " + responseJSON.Plot);
-        console.log("Actors:\n " + responseJSON.Actors);
+        dataFile += "\nCountry: " + responseJSON.Country;
+        dataFile += "\nLanguage: " + responseJSON.Language;
+        dataFile += "\nPlot:\n " + responseJSON.Plot;
+        dataFile += "\nActors:\n " + responseJSON.Actors;
+        dataFile += "\n______________________________________";
+        console.log(dataFile);
+        utilities.updatefile(dataFile);
       } else {
         console.log("error");
       }
