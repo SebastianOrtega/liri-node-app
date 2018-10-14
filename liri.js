@@ -3,6 +3,7 @@ var keys = require("./keys.js");
 
 const Concert = require("./Concert.js");
 const Spotify = require("./Spotify.js");
+const Movie = require("./Movie.js");
 
 var [action, ...extra] = process.argv.slice(2); // Spread Operator
 var actionTerms = extra.join(" ");
@@ -14,8 +15,9 @@ if (action == "concert-this" && actionTerms != "") {
 } else if (action == "spotify-this-song" && actionTerms != "") {
   let spotify = new Spotify();
   spotify.spotifyThisSong(actionTerms);
-} else if (action == "movie-this" && actionTerms != "") {
-  console.log("action type can be actor or show only");
+} else if (action == "movie-this") {
+  let movie = new Movie();
+  movie.search(actionTerms);
 } else if (action == "do-what-it-says") {
   console.log("action type can be actor or show only");
 } else {
