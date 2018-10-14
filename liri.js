@@ -13,7 +13,7 @@ function wrapper(action, actionTerms) {
     let concierto = new Concert();
     console.log(actionTerms);
     concierto.getEvent(actionTerms);
-  } else if (action == "spotify-this-song" && actionTerms != "") {
+  } else if (action == "spotify-this-song") {
     let spotify = new Spotify();
     spotify.spotifyThisSong(actionTerms);
   } else if (action == "movie-this") {
