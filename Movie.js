@@ -9,10 +9,8 @@ let Movie = function() {
     console.log(URL);
 
     request(URL, function(error, response, body) {
-      //console.log(response);
       if (response.statusCode == 200) {
         let responseJSON = JSON.parse(body);
-        //console.log(responseJSON);
         console.log("______________________________________");
         console.log("Title: " + responseJSON.Title);
         console.log("Release Year: " + responseJSON.Year);
@@ -20,7 +18,6 @@ let Movie = function() {
         try {
           console.log("Rotten Tomatoes: " + responseJSON.Ratings[1].Value);
         } catch (error) {}
-
         console.log("Country: " + responseJSON.Country);
         console.log("Language: " + responseJSON.Language);
         console.log("Plot:\n " + responseJSON.Plot);
